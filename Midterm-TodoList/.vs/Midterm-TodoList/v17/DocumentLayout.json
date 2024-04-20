@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STUDENT\\source\\repos\\Midterm-TodoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{553A517E-90D0-4A63-AB13-14732A36D893}|Midterm-TodoList\\Midterm-TodoList.csproj|c:\\users\\student\\source\\repos\\midterm-todolist\\midterm-todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{553A517E-90D0-4A63-AB13-14732A36D893}|Midterm-TodoList\\Midterm-TodoList.csproj|solutionrelative:midterm-todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A517E-90D0-4A63-AB13-14732A36D893}|Midterm-TodoList\\Midterm-TodoList.csproj|c:\\users\\student\\source\\repos\\midterm-todolist\\midterm-todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553A517E-90D0-4A63-AB13-14732A36D893}|Midterm-TodoList\\Midterm-TodoList.csproj|solutionrelative:midterm-todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A517E-90D0-4A63-AB13-14732A36D893}|Midterm-TodoList\\Midterm-TodoList.csproj|c:\\users\\student\\source\\repos\\midterm-todolist\\midterm-todolist\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553A517E-90D0-4A63-AB13-14732A36D893}|Midterm-TodoList\\Midterm-TodoList.csproj|solutionrelative:midterm-todolist\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A517E-90D0-4A63-AB13-14732A36D893}|Midterm-TodoList\\Midterm-TodoList.csproj|c:\\users\\student\\source\\repos\\midterm-todolist\\midterm-todolist\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553A517E-90D0-4A63-AB13-14732A36D893}|Midterm-TodoList\\Midterm-TodoList.csproj|solutionrelative:midterm-todolist\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A517E-90D0-4A63-AB13-14732A36D893}|Midterm-TodoList\\Midterm-TodoList.csproj|c:\\users\\student\\source\\repos\\midterm-todolist\\midterm-todolist\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553A517E-90D0-4A63-AB13-14732A36D893}|Midterm-TodoList\\Midterm-TodoList.csproj|solutionrelative:midterm-todolist\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A517E-90D0-4A63-AB13-14732A36D893}|Midterm-TodoList\\Midterm-TodoList.csproj|c:\\users\\student\\source\\repos\\midterm-todolist\\midterm-todolist\\views\\shared\\_accountlayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{553A517E-90D0-4A63-AB13-14732A36D893}|Midterm-TodoList\\Midterm-TodoList.csproj|solutionrelative:midterm-todolist\\views\\shared\\_accountlayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A517E-90D0-4A63-AB13-14732A36D893}|Midterm-TodoList\\Midterm-TodoList.csproj|c:\\users\\student\\source\\repos\\midterm-todolist\\midterm-todolist\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553A517E-90D0-4A63-AB13-14732A36D893}|Midterm-TodoList\\Midterm-TodoList.csproj|solutionrelative:midterm-todolist\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A517E-90D0-4A63-AB13-14732A36D893}|Midterm-TodoList\\Midterm-TodoList.csproj|c:\\users\\student\\source\\repos\\midterm-todolist\\midterm-todolist\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553A517E-90D0-4A63-AB13-14732A36D893}|Midterm-TodoList\\Midterm-TodoList.csproj|solutionrelative:midterm-todolist\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A517E-90D0-4A63-AB13-14732A36D893}|Midterm-TodoList\\Midterm-TodoList.csproj|c:\\users\\student\\source\\repos\\midterm-todolist\\midterm-todolist\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553A517E-90D0-4A63-AB13-14732A36D893}|Midterm-TodoList\\Midterm-TodoList.csproj|solutionrelative:midterm-todolist\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A517E-90D0-4A63-AB13-14732A36D893}|Midterm-TodoList\\Midterm-TodoList.csproj|c:\\users\\student\\source\\repos\\midterm-todolist\\midterm-todolist\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553A517E-90D0-4A63-AB13-14732A36D893}|Midterm-TodoList\\Midterm-TodoList.csproj|solutionrelative:midterm-todolist\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A517E-90D0-4A63-AB13-14732A36D893}|Midterm-TodoList\\Midterm-TodoList.csproj|c:\\users\\student\\source\\repos\\midterm-todolist\\midterm-todolist\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553A517E-90D0-4A63-AB13-14732A36D893}|Midterm-TodoList\\Midterm-TodoList.csproj|solutionrelative:midterm-todolist\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A517E-90D0-4A63-AB13-14732A36D893}|Midterm-TodoList\\Midterm-TodoList.csproj|c:\\users\\student\\source\\repos\\midterm-todolist\\midterm-todolist\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553A517E-90D0-4A63-AB13-14732A36D893}|Midterm-TodoList\\Midterm-TodoList.csproj|solutionrelative:midterm-todolist\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\Midterm-TodoList\\Midterm-TodoList\\appsettings.json",
+              "RelativeDocumentMoniker": "Midterm-TodoList\\appsettings.json",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\Midterm-TodoList\\Midterm-TodoList\\appsettings.json",
+              "RelativeToolTip": "Midterm-TodoList\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T04:38:42.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\Midterm-TodoList\\Midterm-TodoList\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Midterm-TodoList\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\Midterm-TodoList\\Midterm-TodoList\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Midterm-TodoList\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T04:30:34.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\Midterm-TodoList\\Midterm-TodoList\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Midterm-TodoList\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\Midterm-TodoList\\Midterm-TodoList\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Midterm-TodoList\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T04:27:42.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_AccountLayout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\Midterm-TodoList\\Midterm-TodoList\\Views\\Shared\\_AccountLayout.cshtml.css",
+              "RelativeDocumentMoniker": "Midterm-TodoList\\Views\\Shared\\_AccountLayout.cshtml.css",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\Midterm-TodoList\\Midterm-TodoList\\Views\\Shared\\_AccountLayout.cshtml.css",
+              "RelativeToolTip": "Midterm-TodoList\\Views\\Shared\\_AccountLayout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-20T04:24:06.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\Midterm-TodoList\\Midterm-TodoList\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Midterm-TodoList\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\Midterm-TodoList\\Midterm-TodoList\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Midterm-TodoList\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T03:43:39.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\Midterm-TodoList\\Midterm-TodoList\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Midterm-TodoList\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\Midterm-TodoList\\Midterm-TodoList\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Midterm-TodoList\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T03:43:29.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\Midterm-TodoList\\Midterm-TodoList\\Program.cs",
+              "RelativeDocumentMoniker": "Midterm-TodoList\\Program.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\Midterm-TodoList\\Midterm-TodoList\\Program.cs",
+              "RelativeToolTip": "Midterm-TodoList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T03:26:52.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_AccountLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\Midterm-TodoList\\Midterm-TodoList\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeDocumentMoniker": "Midterm-TodoList\\Views\\Shared\\_AccountLayout.cshtml",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\Midterm-TodoList\\Midterm-TodoList\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeToolTip": "Midterm-TodoList\\Views\\Shared\\_AccountLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T03:25:12.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\Midterm-TodoList\\Midterm-TodoList\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Midterm-TodoList\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\Midterm-TodoList\\Midterm-TodoList\\Models\\User.cs",
+              "RelativeToolTip": "Midterm-TodoList\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T03:22:13.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\Midterm-TodoList\\Midterm-TodoList\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Midterm-TodoList\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\Midterm-TodoList\\Midterm-TodoList\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Midterm-TodoList\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T03:10:29.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\Midterm-TodoList\\Midterm-TodoList\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Midterm-TodoList\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\Midterm-TodoList\\Midterm-TodoList\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Midterm-TodoList\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T03:43:49.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\Midterm-TodoList\\Midterm-TodoList\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Midterm-TodoList\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\Midterm-TodoList\\Midterm-TodoList\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Midterm-TodoList\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T03:21:59.66Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

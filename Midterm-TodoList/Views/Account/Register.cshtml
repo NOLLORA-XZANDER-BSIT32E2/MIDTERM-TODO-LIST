@@ -1,0 +1,14 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "~/Views/Shared/_AccountLayout.cshtml";
+}
+
+<h1>Register</h1>
+<form asp-controller="Account" asp-action="Register" method="post">
+    <input type="text" name="email" placeholder="Email" required><br>
+    <input type="password" name="password" placeholder="Password" required><br>
+    <button type="submit">Register</button>
+</form>
+<p>Already have an account? <a href="/Account/Login">Login here</a></p>
