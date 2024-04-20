@@ -42,8 +42,7 @@
               "RelativeToolTip": "Midterm-TodoList\\Views\\Account\\Register.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-20T04:53:33.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T04:53:33.266Z"
             },
             {
               "$type": "Document",
@@ -53,7 +52,7 @@
               "RelativeDocumentMoniker": "Midterm-TodoList\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\STUDENT\\Desktop\\GITHUB\\MIDTERM-TODO-LIST\\Midterm-TodoList\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Midterm-TodoList\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAADwvywAAAAYAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAUwDQAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T04:51:45.969Z",
               "EditorCaption": ""
@@ -66,7 +65,7 @@
               "RelativeDocumentMoniker": "Midterm-TodoList\\appsettings.json",
               "ToolTip": "C:\\Users\\STUDENT\\Desktop\\GITHUB\\MIDTERM-TODO-LIST\\Midterm-TodoList\\appsettings.json",
               "RelativeToolTip": "Midterm-TodoList\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-04-20T04:51:08.201Z",
               "EditorCaption": ""
@@ -81,8 +80,7 @@
               "RelativeToolTip": "Midterm-TodoList\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T04:50:50.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T04:50:50.029Z"
             }
           ]
         }

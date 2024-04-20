@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using TodoListApp.Models;
+using Microsoft.Extensions.Configuration;
 using System.Data;
 using System.Data.OleDb;
 
@@ -7,7 +8,12 @@ namespace TodoListApp.Controllers
 {
     public class AccountController : Controller
     {
-        private readonly string connectionString = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\\Users\\STUDENT\\Desktop\\GITHUB\\MIDTERM-TODO-LIST\\Midterm-TodoList\\bin\\Database;";
+        private readonly IConfiguration _configuration;
+
+        public AccountController(IConfiguration configuration)
+        {
+            _configuration = configuration;
+        }
 
         [HttpGet]
         public IActionResult Login()
@@ -34,6 +40,8 @@ namespace TodoListApp.Controllers
             // Register logic
             if (ModelState.IsValid)
             {
+                string connectionString = _configuration.GetConnectionString("AccessConnection");
+
                 using (OleDbConnection connection = new OleDbConnection(connectionString))
                 {
                     string query = "INSERT INTO tblUser (Username, Password) VALUES (?, ?)";
